@@ -15,5 +15,5 @@ else if (mark >= 0 && mark <= 59) {
     console.log('Your Grade is F.')
 }
 else {
-    console.log('worng input || mark >= 0 && mark <= 100 ')
+    console.log('wrong input || mark >= 0 && mark <= 100 ')
 }
